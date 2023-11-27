@@ -1,0 +1,14 @@
+# Arquivos e diretórios gerados automaticamente
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Ambiente virtual
+venv/
+
+# Arquivos de log
+*.log
+
+# Arquivo de ambiente
+.env
